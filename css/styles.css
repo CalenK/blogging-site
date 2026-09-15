@@ -2,16 +2,25 @@
   color: red;
   font-size: 25px;
   font-style: italic;
+  width: 50%;
+  margin-bottom: 12px;
 }
 
 .mecha {
   color: blue;
   font-size: 25px;
+  width: 50%;
+  padding: 21px;
+  margin-bottom: 12px;
+  margin-top: 12px; 
 }
 
 .toku {
   color: yellow;
   font-size: 25px;
+  width: 50%;
+  padding: 5%;
+  margin-top: 12px;
 }
 
 p {
